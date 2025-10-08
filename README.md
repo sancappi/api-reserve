@@ -1,6 +1,6 @@
 # Reserve
 
-Este projeto se refere a API RESTful utilizada em um sistema full-stack que desenvolvi. 
+Este sistema se refere a API RESTful utilizada em um projeto full-stack.
 
 ## Tecnologias utilizadas
 
